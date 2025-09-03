@@ -1,6 +1,8 @@
 # Duck Duck Goose 🦆
 Cute little duck Vs. the Goose Mafia.
 
+[![Alt Text](https://img.youtube.com/vi/IJqtT70qlTY/0.jpg)](https://www.youtube.com/watch?v=IJqtT70qlTY)
+
 ## Inspiration
 - The main character was inspired by the Duck mascot of the event.
 - The platform GameMaker was very interesting to work on and easy to use for 2D games.
