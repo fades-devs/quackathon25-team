@@ -9,7 +9,7 @@ Cute little duck Vs. the Goose Mafia.
 - We were also partially inspired by the term "lucky egg" mentioned in the challenge since it aligned with the theme of DUCS mascot.
 
 ## What it does
-The context of the game is that a cute little duck goes on a war against the geese for stealing his precious egg.
+The context of the game is that a cute little duck goes on a war against the geese for stealing his precious egg.<br/>
 When he finds the egg finally he goes on a rampage mode that makes much more powerful helping him defeating the entire mafia.
 
 ## How we built it
