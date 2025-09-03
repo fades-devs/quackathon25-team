@@ -1,4 +1,4 @@
-# Duck Duck Goose
+# Duck Duck Goose 🦆
 Cute little duck Vs. the Goose Mafia.
 
 ## Inspiration
