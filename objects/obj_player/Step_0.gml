@@ -1,7 +1,6 @@
-// Check for both WASD and arrow keys
-var move_x = (keyboard_check(ord("D")) || keyboard_check(vk_right)) - (keyboard_check(ord("A")) || keyboard_check(vk_left));
-var move_y = (keyboard_check(ord("S")) || keyboard_check(vk_down)) - (keyboard_check(ord("W")) || keyboard_check(vk_up));
-
+// Handle movement
+var move_x = keyboard_check(ord("D")) - keyboard_check(ord("A"));
+var move_y = keyboard_check(ord("S")) - keyboard_check(ord("W"));
 
 // Set state to idle by default if not in special states
 if state != "attacking" && !is_jumping {

@@ -47,14 +47,12 @@
     {"name":"inst_825A5E_1","path":"rooms/Roomend/Roomend.yy",},
     {"name":"inst_62617501_1","path":"rooms/Roomend/Roomend.yy",},
     {"name":"inst_E70F5EF","path":"rooms/Roomend/Roomend.yy",},
-    {"name":"inst_36F35B37","path":"rooms/Roomend/Roomend.yy",},
   ],
   "isDnd":false,
   "layers":[
     {"$GMRInstanceLayer":"","%Name":"Instances_1","depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"$GMRInstance":"v1","%Name":"inst_62617501_1","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_62617501_1","objectId":{"name":"obj_textbox_1","path":"objects/obj_textbox_1/obj_textbox_1.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1003.0,"y":596.0,},
         {"$GMRInstance":"v1","%Name":"inst_E70F5EF","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_E70F5EF","objectId":{"name":"obj_end","path":"objects/obj_end/obj_end.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":11.5,"scaleY":3.4375,"x":1090.0,"y":608.0,},
-        {"$GMRInstance":"v1","%Name":"inst_36F35B37","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_36F35B37","objectId":{"name":"obj_fade_controller","path":"objects/obj_fade_controller/obj_fade_controller.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1056.0,"y":704.0,},
       ],"layers":[],"name":"Instances_1","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRAssetLayer":"","%Name":"shrubs","assets":[
         {"$GMRSpriteGraphic":"","%Name":"graphic_5B5C7E8E_1","animationSpeed":1.0,"colour":4294967295,"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"name":"graphic_5B5C7E8E_1","resourceType":"GMRSpriteGraphic","resourceVersion":"2.0","rotation":0.0,"scaleX":3.6692305,"scaleY":3.6692302,"spriteId":{"name":"Basic_Grass_Biom_things___Copy","path":"sprites/Basic_Grass_Biom_things___Copy/Basic_Grass_Biom_things___Copy.yy",},"x":267.0,"y":0.0,},
